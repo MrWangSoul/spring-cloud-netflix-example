@@ -1,0 +1,4 @@
+这个是fork过来的一个整套springcloud框架，
+包含  配置管理 、服务发现、熔断,、动态路由、分布式跟踪、应用监控功能
+
+从知乎https://www.zhihu.com/question/45413135 里发现的
